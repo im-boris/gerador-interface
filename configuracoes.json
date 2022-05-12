@@ -1,10 +1,10 @@
 {
-    "path": "./",
-    "nomeArquivo": "teste",
+    "path": "C:\\dev\\GIT\\gapi\\Comum\\GAPIComumPOJO\\src\\main\\java\\br\\com\\sicoob\\gapi\\comum\\vo\\qpi\\",
+    "nomeArquivo": "QuestionarioRespostaVO",
     "extensaoArquivo": ".java",
 
     "pathSaida": "./",
-    "nomeArquivoSaida": "aqui",
+    "nomeArquivoSaida": "",
     "extensaoArquivoSaida": ".ts",
 
     "todosAtributosOpcionais": false,
@@ -13,8 +13,8 @@
     "nomeArquivoTemplate": "template-interface",
     "extensaoArquivoTemplate": ".txt",
 
-    "regexNomeClasse": "(?<=class )(.*)(?= )",
-    "regexAtributos": "(?<=private )(.*)(?=;)",
+    "regexNomeClasse": "(?<=class )(.*)(?=extends)",
+    "regexAtributos": "(?<=private )(?!static)(.*)(?=;)",
 
     "encoding": "utf8"
 }

@@ -1,7 +1,10 @@
 {
     "String": "String",
     "Boolean": "Boolean",
+    "Date": "Date",
     "Integer": "Number",
     "Float": "Number",
-    "BigDecimal": "Number"
+    "BigDecimal": "Number",
+    "Long": "Number",
+    "Short": "Number"
 }

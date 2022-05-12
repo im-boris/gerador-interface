@@ -23,7 +23,7 @@ function converterAtributos(atributos, config) {
         const tipo = at[0]
         const nome = at[1];
 
-        let tipoDestino = tipagem[tipo] ? tipagem[tipo] : 'Sem mapeamento';
+        let tipoDestino = tipagem[tipo] ? tipagem[tipo] : 'any';
         
         return nome + atributoOpcional + ': ' + tipoDestino + ';'
         
