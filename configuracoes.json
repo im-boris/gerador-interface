@@ -1,0 +1,20 @@
+{
+    "path": "./",
+    "nomeArquivo": "teste",
+    "extensaoArquivo": ".java",
+
+    "pathSaida": "./",
+    "nomeArquivoSaida": "aqui",
+    "extensaoArquivoSaida": ".ts",
+
+    "todosAtributosOpcionais": false,
+
+    "pathTemplate": "./",
+    "nomeArquivoTemplate": "template-interface",
+    "extensaoArquivoTemplate": ".txt",
+
+    "regexNomeClasse": "(?<=class )(.*)(?= )",
+    "regexAtributos": "(?<=private )(.*)(?=;)",
+
+    "encoding": "utf8"
+}

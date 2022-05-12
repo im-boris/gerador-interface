@@ -1,0 +1,7 @@
+{
+    "String": "String",
+    "Boolean": "Boolean",
+    "Integer": "Number",
+    "Float": "Number",
+    "BigDecimal": "Number"
+}
